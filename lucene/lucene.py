@@ -1,9 +1,9 @@
-import re
-import math
 from collections import defaultdict
 from nltk.tokenize import RegexpTokenizer
 from nltk.corpus import stopwords
 from nltk.stem.snowball import SnowballStemmer
+
+import math
 import nltk
 
 # Baixar recursos necessários do NLTK
